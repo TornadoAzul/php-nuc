@@ -1,0 +1,18 @@
+===Base de datos INTE2510
+
+== Estructura de tabla para la tabla miagenda
+
+|------
+|Columna|Tipo|Nulo|Predeterminado
+|------
+|//**personaID**//|int(11)|No|
+|Nombre|varchar(15)|Sí|NULL
+|Apellido|varchar(15)|Sí|NULL
+|Edad|int(11)|Sí|NULL
+|Telefono|int(11)|Sí|NULL
+|correo_electronico|varchar(50)|Sí|NULL
+|pueblo_residencia|varchar(50)|Sí|NULL
+== Volcado de datos para la tabla miagenda
+
+|1|Emmanuel|Alicea|20|787622032|NULL|NULL
+|2|Uriel|López|8|787332473|NULL|NULL
